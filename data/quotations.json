@@ -1,0 +1,40 @@
+[
+  {
+    "sphere": {
+      "type_name": "橡胶软接头",
+      "model": "DN100",
+      "cost_price": 120.0
+    },
+    "flange1": {
+      "type_name": "碳钢法兰",
+      "model": "DN100",
+      "cost_price": 55.0
+    },
+    "flange2": {
+      "type_name": "碳钢法兰",
+      "model": "DN100",
+      "cost_price": 55.0
+    },
+    "quantity": 2,
+    "profit_percentage": 30.0
+  },
+  {
+    "sphere": {
+      "type_name": "可曲挠橡胶接头",
+      "model": "KQR-80",
+      "cost_price": 120.0
+    },
+    "flange1": {
+      "type_name": "不锈钢法兰",
+      "model": "DN80",
+      "cost_price": 72.0
+    },
+    "flange2": {
+      "type_name": "不锈钢法兰",
+      "model": "DN80",
+      "cost_price": 72.0
+    },
+    "quantity": 5,
+    "profit_percentage": 35.0
+  }
+]
