@@ -1,0 +1,77 @@
+[
+  {
+    "type_name": "橡胶软接头",
+    "model": "DN50",
+    "cost_price": 65.0
+  },
+  {
+    "type_name": "橡胶软接头",
+    "model": "DN65",
+    "cost_price": 80.0
+  },
+  {
+    "type_name": "橡胶软接头",
+    "model": "DN80",
+    "cost_price": 95.0
+  },
+  {
+    "type_name": "橡胶软接头",
+    "model": "DN100",
+    "cost_price": 120.0
+  },
+  {
+    "type_name": "橡胶软接头",
+    "model": "DN125",
+    "cost_price": 150.0
+  },
+  {
+    "type_name": "橡胶软接头",
+    "model": "DN150",
+    "cost_price": 180.0
+  },
+  {
+    "type_name": "橡胶软接头",
+    "model": "DN200",
+    "cost_price": 240.0
+  },
+  {
+    "type_name": "橡胶减震器",
+    "model": "JZ-50",
+    "cost_price": 75.0
+  },
+  {
+    "type_name": "橡胶减震器",
+    "model": "JZ-65",
+    "cost_price": 90.0
+  },
+  {
+    "type_name": "橡胶减震器",
+    "model": "JZ-80",
+    "cost_price": 110.0
+  },
+  {
+    "type_name": "橡胶减震器",
+    "model": "JZ-100",
+    "cost_price": 140.0
+  },
+  {
+    "type_name": "橡胶减震器",
+    "model": "JZ-150",
+    "cost_price": 200.0
+  },
+  {
+    "type_name": "可曲挠橡胶接头",
+    "model": "KQR-50",
+    "cost_price": 85.0
+  },
+  {
+    "type_name": "可曲挠橡胶接头",
+    "model": "KQR-80",
+    "cost_price": 120.0
+  },
+  {
+    "type_name": "可曲挠橡胶接头",
+    "model": "KQR-100",
+    "cost_price": 150.0
+  }
+]
