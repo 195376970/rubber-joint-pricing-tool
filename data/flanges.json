@@ -1,0 +1,77 @@
+[
+  {
+    "type_name": "碳钢法兰",
+    "model": "DN50",
+    "cost_price": 25.0
+  },
+  {
+    "type_name": "碳钢法兰",
+    "model": "DN65",
+    "cost_price": 32.0
+  },
+  {
+    "type_name": "碳钢法兰",
+    "model": "DN80",
+    "cost_price": 40.0
+  },
+  {
+    "type_name": "碳钢法兰",
+    "model": "DN100",
+    "cost_price": 55.0
+  },
+  {
+    "type_name": "碳钢法兰",
+    "model": "DN125",
+    "cost_price": 70.0
+  },
+  {
+    "type_name": "碳钢法兰",
+    "model": "DN150",
+    "cost_price": 85.0
+  },
+  {
+    "type_name": "碳钢法兰",
+    "model": "DN200",
+    "cost_price": 120.0
+  },
+  {
+    "type_name": "不锈钢法兰",
+    "model": "DN50",
+    "cost_price": 45.0
+  },
+  {
+    "type_name": "不锈钢法兰",
+    "model": "DN65",
+    "cost_price": 58.0
+  },
+  {
+    "type_name": "不锈钢法兰",
+    "model": "DN80",
+    "cost_price": 72.0
+  },
+  {
+    "type_name": "不锈钢法兰",
+    "model": "DN100",
+    "cost_price": 95.0
+  },
+  {
+    "type_name": "不锈钢法兰",
+    "model": "DN150",
+    "cost_price": 145.0
+  },
+  {
+    "type_name": "铸铁法兰",
+    "model": "DN50",
+    "cost_price": 22.0
+  },
+  {
+    "type_name": "铸铁法兰",
+    "model": "DN80",
+    "cost_price": 36.0
+  },
+  {
+    "type_name": "铸铁法兰",
+    "model": "DN100",
+    "cost_price": 48.0
+  }
+]
